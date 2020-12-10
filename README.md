@@ -3,6 +3,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/samuelterra22)](https://github.com/ahmedrachid)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelterra22/)](https://www.linkedin.com/in/ahmed-rachid/)
 
+</a>
+  <a href="mailto:shashank.vemuri1@gmail.com" target="_blank">
+  <img align="center" alt="Shashank @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 ### Hi there 👋
 
 - 🔭 I’m currently working at Aviva Investors
