@@ -1,4 +1,12 @@
+# Ahmed Rachid Hazourli :man_technologist:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/samuelterra22)](https://github.com/ahmedrachid)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelterra22/)](https://www.linkedin.com/in/ahmed-rachid/)
+
 ### Hi there 👋
+
+- 🔭 I’m currently working at Aviva Investors
+- 💬 Ask me about `PyTorch`, `Python`, `Tensorflow`.
 
 <!--
 **ahmedrachid/ahmedrachid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
