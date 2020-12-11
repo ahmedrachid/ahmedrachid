@@ -31,8 +31,8 @@ Hi, I'm [Ahmed Rachid Hazourli](https://ahmedrachid.github.io/), a Data Scientis
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about `PyTorch`, `Python`, `Tensorflow`.
+- 🌱 I’m currently learning GraphQL and Flutter; 
+- 💬 Ask me about `PyTorch`, `Python`, `Tensorflow`, `Data Science`.
 - 📫 How to reach me: ahmedrachidhazourli@yahoo.fr;
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
