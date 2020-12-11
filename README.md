@@ -10,7 +10,7 @@
 
 Hi, I'm [Ahmed Rachid Hazourli](https://ahmedrachid.github.io/), a Data Scientist. Currently, I am working at [@Aviva Investors](https://avivainvestors.com/).
 
-  <img align="right" alt="GIF" src="https://github.com/ahmedrachid/ahmedrachid/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
