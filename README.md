@@ -25,16 +25,15 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Ahmed Rachid Hazourli](https://blog.abhisheknaidu.tech/), a Data Scientist, currently, I am working at [@Aviva Investors](https://avivainvestors.com/).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 💬 Ask me about `PyTorch`, `Python`, `Tensorflow`.
+- 📫 How to reach me: [ahmedrachidhazourli@yahoo.fr];
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Languages and Tools:**  
