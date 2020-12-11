@@ -12,12 +12,11 @@ Hi, I am [Ahmed Rachid Hazourli](https://ahmedrachid.github.io/), a Data Scienti
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
 
 - 🌱 I am currently learning GraphQL and Flutter; 
 - 💬 Ask me about `PyTorch`, `Python`, `Tensorflow`, `Data Science`.
 - 📫 Contact me: ahmedrachidhazourli@yahoo.fr
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+<!--- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)-->
 
 **Languages and Tools:**  
 
