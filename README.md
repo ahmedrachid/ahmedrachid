@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I am [Ahmed Rachid Hazourli](https://ahmedrachid.github.io/), a Data Engineer & Scientist. Currently, I am working at [@Brother](https://www.brother.fr/).
+Hi, I am [Ahmed Rachid Hazourli](https://ahmedrachid.com/), a Data Engineer & Scientist. Currently, I am working at [@Brother](https://www.brother.fr/).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
