@@ -13,7 +13,7 @@ Hi, I am [Ahmed Rachid Hazourli](https://ahmedrachid.github.io/), a Data Enginee
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
-- 🌱 I am currently learning Kafka and Hadoop; 
+- 🌱 I am currently learning Kafka and Hadoop
 - 💬 Ask me about `Python`, `SQL`, `AWS`, `Snowflake`, `Data Engineering`, `Data Science`.
 - 📫 Contact me: ahmedrachidhazourli@yahoo.fr
 <!--- 📝[Resume](https://drive.google.com/file/)-->
