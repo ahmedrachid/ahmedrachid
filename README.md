@@ -8,13 +8,13 @@
 
 <br />
 
-Hi, I am [Ahmed Rachid Hazourli](https://ahmedrachid.github.io/), a Data Scientist. Currently, I am working at [@Brother](https://www.brother.fr/).
+Hi, I am [Ahmed Rachid Hazourli](https://ahmedrachid.github.io/), a Data Engineer & Scientist. Currently, I am working at [@Brother](https://www.brother.fr/).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 
-- 🌱 I am currently learning GraphQL and Flutter; 
-- 💬 Ask me about `PyTorch`, `Python`, `Tensorflow`, `Data Science`.
+- 🌱 I am currently learning Kafka and Hadoop; 
+- 💬 Ask me about `Python`, `SQL`, `AWS`, `Snowflake`, `Data Engineering`, `Data Science`.
 - 📫 Contact me: ahmedrachidhazourli@yahoo.fr
 <!--- 📝[Resume](https://drive.google.com/file/)-->
 
