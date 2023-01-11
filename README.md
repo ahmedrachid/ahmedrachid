@@ -10,8 +10,8 @@
 
 Hi, I am [Ahmed Rachid Hazourli](https://ahmedrachid.com/), a Data Engineer & Scientist. Currently, I am working at [@VMware](https://www.vmware.com/).
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+  <!---<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  -->
 
 - 🌱 I am currently learning Kafka and Hadoop
 - 💬 Ask me about `Python`, `SQL`, `AWS`, `Snowflake`, `Data Engineering`, `Data Science`.
