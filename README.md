@@ -16,7 +16,6 @@ Hi, I am [Ahmed Rachid Hazourli](https://ahmedrachid.com/), a Solutions Engineer
 - 🌱 I am currently learning Kafka and Hadoop
 - 💬 Ask me about `Python`, `SQL`, `AWS`, `Snowflake`, `Data Engineering`, `Data Science`.
 - 📫 Contact me: ahmedrachidhazourli@yahoo.fr
-- 📝[Resume](https://drive.google.com/file/d/11R4r7dRNCTUVA-gwRXiRTKzU0xVax-cc/view?usp=sharing)
 
 **Languages and Tools:**  
 
